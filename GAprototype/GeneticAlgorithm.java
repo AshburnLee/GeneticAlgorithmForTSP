@@ -2,6 +2,10 @@ package simpleGA;
 
 import java.util.Random;
 
+/**
+ * The implementation of Genetic algorithm
+ * @author junhui 2018-10-7
+ */
 public class GeneticAlgorithm {
 
     Individual father;

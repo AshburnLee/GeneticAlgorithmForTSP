@@ -2,6 +2,10 @@ package simpleGA;
 
 import java.util.Random;
 
+/**
+ * class of individual
+ * @author junhui 2018-10-7
+ */
 public class Individual {
 
     int fitness;  //initial value

@@ -1,7 +1,8 @@
 package simpleGA;
 
 /**
- *
+ * class of population
+ * @author junhui 2018-10-7
  */
 public class Population {
 

@@ -2,6 +2,10 @@ package simpleGA;
 
 import java.util.Random;
 
+/**
+ * A demo
+ * @author junhui 2018-10-7
+ */
 public class dome {
 
     GeneticAlgorithm ga;
